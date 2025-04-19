@@ -1,5 +1,5 @@
-# challenge_alura_store
-=======
+# challenge_alura_store 
+
 # 📊 Análise de Vendas Multilojas
 
 Este repositório contém uma análise exploratória dos dados de vendas de várias lojas, com foco em identificar padrões de desempenho, comportamento de consumo, e distribuição geográfica das vendas.
