@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # challenge_alura_store
 =======
 # 📊 Análise de Vendas Multilojas
@@ -116,5 +115,3 @@ pip install -r requirements.txt
 Para dúvidas ou sugestões, entre em contato por [LinkedIn](https://www.linkedin.com/in/bruno-capanema/) ou abra uma issue no repositório!
 
 ---
-
->>>>>>> ec3e7e0 (Primeiro commit do projeto de análise de lojas)
